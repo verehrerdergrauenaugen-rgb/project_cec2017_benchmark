@@ -1,17 +1,30 @@
+# Visual Studio cache
+.vs/
+cec2017_benchmark/.vs/
+
 # Build directories
 build/
+cec2017_benchmark/build/
 cmake-build-*/
+cec2017_benchmark/cmake-build-*/
 Debug/
 Release/
 x64/
 out/
-.vs/
+cec2017_benchmark/Debug/
+cec2017_benchmark/Release/
+cec2017_benchmark/x64/
+cec2017_benchmark/out/
 
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+cec2017_benchmark/CMakeFiles/
+cec2017_benchmark/CMakeCache.txt
+cec2017_benchmark/cmake_install.cmake
+cec2017_benchmark/Makefile
 
 # Object / binary / debug files
 *.o
